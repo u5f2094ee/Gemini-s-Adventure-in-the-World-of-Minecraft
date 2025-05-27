@@ -1,5 +1,6 @@
 # Gemini‘s Adventure in the World of Minecraft
-![cover6](https://github.com/user-attachments/assets/624bc92c-0f0f-4e4b-a15e-b8c8bf350698)
+![Cover](https://github.com/user-attachments/assets/4d16176d-cf13-4da2-be75-dba3c61f5cae)
+
 
 
 
