@@ -1,4 +1,8 @@
 # Gemini‘s Adventure in the World of Minecraft
+![cover6](https://github.com/user-attachments/assets/624bc92c-0f0f-4e4b-a15e-b8c8bf350698)
+
+
+
 
 《Gemini's Adventure in the World of Minecraft》is a fully AI-generated children’s novel.
 
